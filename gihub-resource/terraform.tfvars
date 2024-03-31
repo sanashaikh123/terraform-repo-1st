@@ -1,1 +1,1 @@
-token = "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"
+token = "insert PAT Token"
