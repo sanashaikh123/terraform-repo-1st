@@ -1,0 +1,12 @@
+aws-ec2-datasource/terraform.tfstate
+aws-ec2-datasource/terraform.tfstate.backup
+aws-ec2-datasource/id_rsa.pub
+aws-ec2-datasource/id_rsa
+aws-ec2-datasource/.terraform.lock.hcl
+aws-ec2-datasource/.terraform
+aws-ec2/terraform.tfstate
+aws-ec2/terraform.tfstate.backup
+aws-ec2/id_rsa.pub
+aws-ec2/id_rsa
+aws-ec2/.terraform.lock.hcl
+aws-ec2/.terraform
