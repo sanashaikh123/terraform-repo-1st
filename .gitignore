@@ -10,3 +10,6 @@ aws-ec2/id_rsa.pub
 aws-ec2/id_rsa
 aws-ec2/.terraform.lock.hcl
 aws-ec2/.terraform
+github-resource/.terraform
+github-resource/terraform.tfstate
+github-resource/terraform.tfstate.backup
