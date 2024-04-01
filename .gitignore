@@ -13,3 +13,9 @@ aws-ec2/.terraform
 github-resource/.terraform
 github-resource/terraform.tfstate
 github-resource/terraform.tfstate.backup
+terraform-module/.terraform
+terraform-module/terraform.tfstate
+terraform-module/terraform.tfstate.backup
+terraform-module/.terraform.lock.hcl
+terraform-module/id_rsa
+terraform-module/id_rsa.pub
